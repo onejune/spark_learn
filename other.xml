@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="TrendingPluginsSearchHistory" value="ui&#10;python" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="file.chooser.recent.files" value="C:/software/spark-2.4.0-bin-hadoop2.7/examples/jars&#10;C:/Users/hp/Desktop/output_jar&#10;C:/Users/hp/Desktop&#10;C:/software/spark-2.4.0-bin-hadoop2.7/jars&#10;C:/Program Files/Java&#10;C:/software/spark-2.4.0-bin-hadoop2.7&#10;C:/Program Files/Java/jdk1.8.0_191&#10;C:/02_workshop/train_data_flow" />
+    <property name="file.gist.reindex.count" value="5" />
+    <property name="fileTypeChangedCounter" value="9" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="C:/02_workshop/train_data_flow" />
+    <property name="lastTip" value="1" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Lightbend Project Starter" />
+    <property name="scala.last.updated" value="1547360142603" />
+  </component>
+</application>
